@@ -1,0 +1,400 @@
+[33mcommit 01faca63befd1513b81868d14e43643a790f4b80[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 21:01:09 2021 -0500
+
+    agregando diagrama de gantt
+
+[33mcommit e08052c51fabb3e93fc46e7109a3514e565cc4d9[m
+Merge: 00e5e60 ba27351
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:56:23 2021 -0500
+
+    Merge branch 'develop' of https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit 00e5e608efdda5b32226b1b2495ec202456caa1e[m
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:55:04 2021 -0500
+
+    checklist completado
+
+[33mcommit ba273516630f9220c119621f846c741517091aeb[m
+Merge: 14e7f11 4fc9be3
+Author: migue0514 <migueacevedo114@gmail.com>
+Date:   Thu Jun 17 20:46:14 2021 -0500
+
+     cerrando Tarea closed #23
+
+[33mcommit 4fc9be36f110101515897dcbb099d410da170831[m
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:37:51 2021 -0500
+
+    agregando detalles
+
+[33mcommit 8018f7aec7712beb6837828175012213f86c4ea5[m
+Merge: 73b327d b318c0f
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:35:18 2021 -0500
+
+    Merge branch 'develop' of https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit b318c0f7b38d51d9eb95f7f36f00a5ad4451038d[m
+Merge: 965cca0 87e67b7
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 17 20:28:09 2021 -0500
+
+    Merge pull request #33 from Daglinton/revert-31-develop
+    
+    Revert 31 develop
+
+[33mcommit 73b327d3ab24c970c797ce9bf87b3b7399b8c9ee[m
+Merge: ef0103d 87e67b7
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 17 20:25:55 2021 -0500
+
+    Merge pull request #32 from Daglinton/revert-31-develop
+    
+    Revert "Develop"
+
+[33mcommit 87e67b76571066c76b84ea905bdf362620c2764d[m
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 17 20:25:36 2021 -0500
+
+    Revert "Develop"
+
+[33mcommit ef0103db0df22c9e3e3b7e0efb6d2fb35071fc1a[m
+Merge: 31b2f12 965cca0
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 17 20:18:11 2021 -0500
+
+    Merge pull request #31 from Daglinton/develop
+    
+    Develop
+
+[33mcommit 965cca0702d84e688fc06fbfb2b10a07b7bf5a71[m
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:08:34 2021 -0500
+
+    Revert "tarea realizada"
+    
+    This reverts commit 725289f49190415c27ae0f64e00dcbdb4a831fd3.
+
+[33mcommit 48f6c2726b3869d7c3e807c78acd3566f55777d8[m
+Merge: 31b2f12 cfa064d
+Author: daglinton-code <daglin13202@gmail.com>
+Date:   Thu Jun 17 20:04:36 2021 -0500
+
+    Merge branch 'develop' of https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit 14e7f1174fc6420db9140e364cc2a3a7a56116ec[m
+Merge: ecb9e29 31b2f12
+Author: migue0514 <migueacevedo114@gmail.com>
+Date:   Thu Jun 17 19:30:26 2021 -0500
+
+    Merge https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit cfa064d0e5f390bbe1c81820670bc5671f2b055e[m
+Merge: cc3adca fa91434
+Author: dsaurez7 <dsaurez7@misena.edu.co>
+Date:   Thu Jun 17 19:29:20 2021 -0500
+
+    tarea realziada closed #22
+
+[33mcommit ecb9e291f07fbf001fade0841b0d4510f82f7fe8[m
+Author: migue0514 <migueacevedo114@gmail.com>
+Date:   Thu Jun 17 19:27:42 2021 -0500
+
+    tarea realizada revisada closed #23
+
+[33mcommit 31b2f12c02f94549492b206aef30feb38a3c4cb5[m
+Merge: fea71aa fa91434
+Author: lidispatry <85323393+lidispatry@users.noreply.github.com>
+Date:   Thu Jun 17 13:18:40 2021 -0500
+
+    Merge pull request #30 from Daglinton/develop
+    
+    Develop
+
+[33mcommit fa91434f2b1bcbb071ebd2341485f7e571ccb98a[m
+Merge: 725289f fea71aa
+Author: lidispatry <85323393+lidispatry@users.noreply.github.com>
+Date:   Thu Jun 17 13:15:29 2021 -0500
+
+    Merge branch 'main' into develop
+
+[33mcommit 725289f49190415c27ae0f64e00dcbdb4a831fd3[m
+Author: lidis valerio <juanpablo71999@hotmail.com>
+Date:   Thu Jun 17 13:08:39 2021 -0500
+
+    tarea realizada
+
+[33mcommit fea71aa1030f65de42a006e933e7423fdad89509[m
+Author: Juan Pablo Gomez Vasquez <juanpablo71999@hotmail.com>
+Date:   Thu Jun 17 12:44:31 2021 -0500
+
+    prueba usuario
+
+[33mcommit a67c6240dd307112d5516914467a424cda4aa389[m
+Author: senaandres <82187936+senaandres@users.noreply.github.com>
+Date:   Wed Jun 16 21:20:57 2021 -0500
+
+    Update aprendices_trabajocolaborativo
+
+[33mcommit bb1e275bd3f4b9d973003ccdeefb253de076ce39[m
+Merge: 6d66bcb 9f88854
+Author: Fandres <fandres921126@gmail.com>
+Date:   Fri Jun 11 21:49:23 2021 -0500
+
+    Practicando pull closed #25
+
+[33mcommit 6d66bcb9ac90569748e0fdc20115b6246c35246e[m
+Author: Fandres <fandres921126@gmail.com>
+Date:   Fri Jun 11 21:42:25 2021 -0500
+
+    practicando pull request closed #25
+
+[33mcommit ce382e18fe3bfa54e416d9175d5022b7b6bb1cb0[m
+Merge: 384d5c4 9f88854
+Author: sanchez1003 <85654693+sanchez1003@users.noreply.github.com>
+Date:   Thu Jun 10 22:59:32 2021 -0500
+
+    Merge pull request #28 from Daglinton/develop
+    
+    Develop
+
+[33mcommit 9f8885430c40c920e9b0ee7d2d854b23830d5d5d[m
+Merge: 1a680a9 384d5c4
+Author: sanchez1003 <85654693+sanchez1003@users.noreply.github.com>
+Date:   Thu Jun 10 22:59:05 2021 -0500
+
+    Merge branch 'main' into develop
+
+[33mcommit 1a680a9112f58b6c35a6d191b90c8ef531640007[m
+Author: migue0514 <migueacevedo114@gmail.com>
+Date:   Thu Jun 10 22:40:23 2021 -0500
+
+    tarea completada profe #23
+
+[33mcommit 384d5c4d4542044cff601edbc05f121874c25a9e[m
+Author: sanchez1003 <josesan681@gmail.com>
+Date:   Thu Jun 10 22:34:14 2021 -0500
+
+    tarea realizada
+
+[33mcommit cc3adcac986b83c545641a677d0803436b05a375[m
+Author: dsaurez7 <dsaurez7@misena.edu.co>
+Date:   Thu Jun 10 20:43:06 2021 -0500
+
+    prueba daniel closed #22
+
+[33mcommit 8a8b03353dbd0d70abe887b1b6243e821a11cb01[m
+Merge: ca1accd 1c220aa
+Author: dsaurez7 <dsaurez7@misena.edu.co>
+Date:   Thu Jun 10 20:32:16 2021 -0500
+
+    tarea realizada daniel closed #22
+
+[33mcommit a2e73b766c74422176ee35c845677569d1e485cf[m
+Merge: 2ceda29 1c220aa
+Author: Fandres <fandres921126@gmail.com>
+Date:   Thu Jun 10 20:22:18 2021 -0500
+
+    "Desarrollo tarea closed #25"
+    Merge https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit 2ceda2996399eed7094010b51b0568f3d86133c2[m
+Author: Fandres <fandres921126@gmail.com>
+Date:   Thu Jun 10 20:17:03 2021 -0500
+
+    Desarrollo tarea closed #25
+
+[33mcommit 1c220aa32a498180f8cb52e33e4f81a88c96d989[m
+Merge: d20befb 3bb778d
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 10 20:06:26 2021 -0500
+
+    Merge pull request #24 from Daglinton/develop
+    
+    Develop
+
+[33mcommit ca1accd6bb65d77bdc9b5cca39d63815f3249e8c[m
+Author: dsaurez7 <dsaurez7@misena.edu.co>
+Date:   Thu Jun 10 19:54:55 2021 -0500
+
+    tarea realizada close #22
+
+[33mcommit 3bb778db832370d1e06b5aea76f06a3a5a55ba6e[m
+Author: japerez26 <japerez4834@misena.edu.co>
+Date:   Thu Jun 10 19:54:08 2021 -0500
+
+    "desarrollando la tarea closed #2"
+
+[33mcommit f72128f7623a90d63fb41e156326cfded8dd5baa[m
+Merge: d20befb cd767ab
+Author: japerez26 <japerez4834@misena.edu.co>
+Date:   Thu Jun 10 19:51:22 2021 -0500
+
+    Merge branch 'develop' of https://github.com/Daglinton/trabajocolaborativo-2183805 into develop
+
+[33mcommit d20befbf44c414740a495a49180fc49cbd27e807[m
+Author: OMontotaV <85323360+OMontotaV@users.noreply.github.com>
+Date:   Thu Jun 10 16:43:51 2021 -0500
+
+    Update aprendices_trabajocolaborativo
+
+[33mcommit cd767abf05882b0b6d74c9f8ab5c45844890cb4d[m
+Author: aleja108 <aleja108@hotmail.com>
+Date:   Wed Jun 9 20:49:45 2021 -0500
+
+    tarea hecha closed #10
+
+[33mcommit 42381f702da89be3a310e2b37009eaf5c2cc8887[m
+Merge: 5a3f689 897b98d
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Wed Jun 9 17:19:33 2021 -0500
+
+    Merge pull request #20 from Lucas-P4499/develop
+    
+    Develop Tarea Desarrollada agregue mi nombre close #8
+
+[33mcommit 5a3f6899249560a2de92ebf13844e79237cbd9e0[m
+Author: jandersonb9 <jandersonb9@gmail.com>
+Date:   Mon Jun 7 21:43:58 2021 -0500
+
+    agrego nombre Andreson Barrientos closed #1
+
+[33mcommit e77bbf6618401485c3fba5c15c356cefb71ee3ae[m
+Author: jandersonb9 <jandersonb9@gmail.com>
+Date:   Mon Jun 7 21:25:22 2021 -0500
+
+    agrego nombre Andreson Barrientos
+
+[33mcommit 897b98da20b66436029ca0385f1bc635fc772dde[m
+Author: unknown <lpalacio214@misena.edu.co>
+Date:   Mon Jun 7 20:50:31 2021 -0500
+
+    Tarea Desarrollada se agrego mi nombre close #8
+
+[33mcommit ecc87ec5c5f7b89e69bfb87b0eef7cb1b52c3e82[m
+Merge: b3f9ba8 e317c3e
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Fri Jun 4 13:56:47 2021 -0500
+
+    Merge pull request #19 from Daglinton/develop
+    
+    Merge pull request #18 from Daglinton/main
+
+[33mcommit e317c3ecba31e65848d86c13a644fe6c54199e9f[m
+Merge: 88b2228 b3f9ba8
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Fri Jun 4 13:53:35 2021 -0500
+
+    Merge pull request #18 from Daglinton/main
+    
+    Merge pull request #17 from Daglinton/develop
+
+[33mcommit b3f9ba8d7c1eebd03da21b67bea3ded88eaceb28[m
+Merge: b3f3d96 88b2228
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Fri Jun 4 13:52:15 2021 -0500
+
+    Merge pull request #17 from Daglinton/develop
+    
+    Merge pull request #16 from Daglinton/main
+
+[33mcommit 88b222808a75c67f571eac0d824683efc055f050[m
+Merge: 4a1d41c b3f3d96
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Fri Jun 4 13:50:37 2021 -0500
+
+    Merge pull request #16 from Daglinton/main
+    
+    Merge pull request #14 from Daglinton/develop
+
+[33mcommit b3f3d9616abb9a783ac9f06ebe427b47180474d0[m
+Merge: 0ce703a 4a1d41c
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Fri Jun 4 13:40:07 2021 -0500
+
+    Merge pull request #14 from Daglinton/develop
+    
+    Develop aprobando trabajo de alfonso
+
+[33mcommit 4a1d41ce986139b8b997482cb529d0a922008f09[m
+Merge: a814a1c 20e79a3
+Author: aitageo <aitageo1980@hotmail.com>
+Date:   Thu Jun 3 23:03:14 2021 -0500
+
+    Merge branch 'develop' of github.com:Daglinton/trabajocolaborativo-2183805 into develop
+    tarea hecha
+
+[33mcommit a814a1c6313d308337e4389313769b7fb5af71b9[m
+Author: aitageo <aitageo1980@hotmail.com>
+Date:   Thu Jun 3 22:59:03 2021 -0500
+
+    hola profe tarea en este repo hecha closed #3
+
+[33mcommit 20e79a38681f0a4afdbe02d28687140395b9bf3f[m
+Merge: 617cd66 0ce703a
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 3 21:27:18 2021 -0500
+
+    Merge pull request #13 from Daglinton/main
+    
+    unificando ramas
+
+[33mcommit 0ce703abc8e479d7719bd7084ef864ffbf285046[m
+Merge: 48ff299 a25ec69
+Author: DAGLINTON DAVILA MURILLO <55671686+Daglinton@users.noreply.github.com>
+Date:   Thu Jun 3 21:21:14 2021 -0500
+
+    Merge pull request #11 from daglinton-code/develop
+    
+    Develop tarea completada close #7
+
+[33mcommit a25ec697f2d1a4e9e02875ebda12abb8662dde6b[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 21:13:23 2021 -0500
+
+    Tarea desarrollada he agregado minombre close #7
+
+[33mcommit 617cd66992a7f05d37a9cce8be42513a1716e906[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 20:18:14 2021 -0500
+
+    completando lista de colaboradores
+
+[33mcommit f2b2af3f1b01be1c492bef3ff269c75f298d6b3a[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 20:10:34 2021 -0500
+
+    agregando emails de los colaboradores
+
+[33mcommit 48ff299e05319e250debd093e162dc9a6c4c907b[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 19:51:52 2021 -0500
+
+    creando archivo README.md
+
+[33mcommit e356e82f7f4247c0f48988574cd5b1e6c4170199[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 19:37:19 2021 -0500
+
+    generando propuesta de trabajo colaborativo
+
+[33mcommit 9ec4295964c497e90aa5a4cbbbc34ce40c83a8c2[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu Jun 3 19:33:15 2021 -0500
+
+    lista de chequeo completa
+
+[33mcommit d82174cc308b60c6ca279b7e60d7b31d353c3e0c[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu May 27 20:47:17 2021 -0500
+
+    requerimientos adjuntados
+
+[33mcommit 7487e7608c1135ab2c4f0dfb2d38e9f56048fc69[m
+Author: daglinton <profedaglinton@misena.edu.co>
+Date:   Thu May 27 20:19:31 2021 -0500
+
+    creamos los archivos de seguimiento del proyecto
