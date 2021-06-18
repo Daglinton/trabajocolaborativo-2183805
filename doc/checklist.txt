@@ -1,10 +1,15 @@
   >>>Documentacion y Recoleccion de Datos 
-# 1) Reunion de Equipo para ver los requerimientos del sistema LLUVIA DE IDEAS
-# 2) definicion de los metodos de investigacion y las herramientas colaborativas de recoleccion de datos como canvas, kanban y trllo
+# 1) Reunion de Equipo para ver los requerimientos del sistema LLUVIA DE IDEAS -> Driagrama de Gantt
+# 2) definicion de los metodos de investigacion y las herramientas colaborativas de recoleccion de datos como canvas, kanban y trello
 # 3) visitar al cliente o para recolectar datos utilizando encuestas para tabular y hacer analisis de los datos
 # 4) crear un modelo canvas, crear un trello , un diagrama de gantt , y un kanvan
 # 5) crear mapas de procesos de la organizacion
 # 6) documentar el protecto: justificacion, objetivos , descripcion de las caracteristicas del sistema a desarrollar
 # 7) definir los requerimientos funcionales y no funcionales del sistema UX y UI
+# 8) definir roles de equipo , tiempos de sprint cuantos sprint por artefacto.
  >>> Analisis y Modelado
+# 8) Escoger el lenguaje de programacion con el cual se desarrollaraq el sistema. definir con que infreestructura se puede integrar
+# 9) modelar los diagramas de caso de uso,  Diagramas de modelo entidad relacion, Diagramas de clase del sistema, Diagrama de Flujo
+# 10) Escoger el motor de bases de datos con que van a trabajar, la insidencia de los datos del sostema.
+# 11) Definir los modulos de sistema usando herrmientas de Mock-up , wiframes, plantillas de modulos etc...
  >>> Codificacion
